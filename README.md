@@ -1,2 +1,2 @@
 # InfTech-Prog
-# FEDUK = Legend
+# Moscow
