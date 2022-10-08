@@ -1,2 +1,2 @@
 # InfTech-Prog
-# FEDUK = Drake
+# FEDUK = Drake Borbor 2
